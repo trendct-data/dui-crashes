@@ -1,0 +1,7 @@
+Dataset: conndot
+Date From:01/01/1995
+Date To:12/31/2016
+Severity: Fatality, Injury (No fatality), Property Damage Only
+Contributing Factor: Under the Influence
+Vehicle Type: null, null, null
+Injury Classification: null, null, null
